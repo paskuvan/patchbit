@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;700&display=swap");
+
+.font-oficial {
+    font-family: "Lato", sans-serif;
+}
+
+.text-orange {
+    color: #ea6c27 !important;
+}
+
+.white {
+    color: #ffffff;
+}
+
+.modal-dialog {
+    margin-top: 10em !important;
+}
+
+.f-40 {
+    font-size: 40px;
+}
+
+.bg-black {
+    background-color: #000000 !important;
+}
+
+.navbar-brand {
+    color: white !important;
+    font-size: 16px;
+}
+
+.oi-check {
+    color: #ea6c27;
+}
+
+.btn-orange {
+    color: #fff !important;
+    background-color: #ea6c27 !important;
+    border-color: #ea6c27 !important;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: white;
+}
+
+
+.center {
+    text-align: center;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.light {
+    font-weight: 300;
+}
+
+@media (max-width: 768px) {
+    .bg-image {
+        height: 220px !important;
+    }
+}
